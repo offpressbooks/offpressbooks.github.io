@@ -228,6 +228,12 @@ p {
   padding: 5px;
 }
 
+.column3 {
+  float: right;
+  width: 63%;
+  padding: 5px;
+}
+
 
 .row2::after {
   content: "";
@@ -445,6 +451,21 @@ p {
 	padding-left: 5px;
 	padding-bottom: 5px;
 	padding-right: 50px;
+	color: #000000;
+}
+
+.source2 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	font-weight:200;
+	letter-spacing: normal;
+	text-align: inherit;
+	float: left;
+	width: 40%;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 50px;
 	color: #000000;
 }
 
