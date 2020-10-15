@@ -67,7 +67,7 @@ p {
 	font-size: calc( 80px + (82 - 80) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
     font-weight: 700;
-    color: #000000;
+    color: #d6d6d6;
     float: left;
 }
 
