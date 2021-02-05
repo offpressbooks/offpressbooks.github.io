@@ -110,6 +110,24 @@ p {
     padding-right: 260px;
 }
 
+.headingsmallinfored { 
+    font-family: 'Roboto', sans-serif;
+	font-size: calc( 60px + (82 - 80) * (100vw - 450px) / (1000 - 450) );
+    letter-spacing: 0.1rem;
+    font-weight: 700;
+    color: #ff4e4e;
+    float: left;
+}
+
+.headingsmallinfo { 
+    font-family: 'Roboto', sans-serif;
+	font-size: calc( 60px + (82 - 80) * (100vw - 450px) / (1000 - 450) );
+    letter-spacing: 0.1rem;
+    font-weight: 700;
+    color: #d6d6d6;
+    float: left;
+}
+
    
 
 
