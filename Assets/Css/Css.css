@@ -137,7 +137,7 @@ p {
 	font-family: 'Roboto', sans-serif;
 	font-size: calc( 20px + (22 - 20) * (100vw - 450px) / (1000 - 450) );
 	letter-spacing: 0.1rem;
-	font-weight: 300;
+	font-weight: 500;
 	color: #d6d6d6;
 	float: right;
 }
@@ -204,6 +204,28 @@ p {
 .ourownthingsheadinglink:visited {text-decoration: none; color: #7a7a7a;}
 .ourownthingsheadinglink:hover {text-decoration: none; color: #000000; transition: 0s;}
 .ourownthingsheadinglink:active {text-decoration: none; color: #7a7a7a;}
+
+.information-images { 
+    font-family: 'Roboto', sans-serif;
+	font-size: calc( 40px + (82 - 80) * (100vw - 450px) / (1000 - 450) );
+    letter-spacing: 0.1rem;
+    font-weight: 700;
+    color: #d6d6d6;
+    float: left;
+}
+
+.information-images-link { 
+    font-family: 'Roboto', sans-serif;
+	font-size: calc( 40px + (82 - 80) * (100vw - 450px) / (1000 - 450) );
+    letter-spacing: 0.1rem;
+    font-weight: 700;
+    color: #d6d6d6;
+    float: left;
+}
+.information-images-link:link {text-decoration: none; color: #d6d6d6;}
+.information-images-link:visited {text-decoration: none; color: #d6d6d6;}
+.information-images-link:hover {text-decoration: none; color: #ff0000; transition: 0s;}
+.information-images-link:active {text-decoration: none; color: #d6d6d6;} 
 
 
 	
@@ -346,7 +368,7 @@ p {
 	  font-family: 'Roboto', sans-serif;
 	 font-size: calc( 24px + (26 - 24) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
-    font-weight: 300;
+    font-weight: 500;
     color: #000000;
    
  
@@ -362,7 +384,7 @@ p {
 	font-family: 'Roboto', sans-serif;
 	font-size: calc( 24px + (26 - 24) * (100vw - 450px) / (1000 - 450) );
 	letter-spacing: 0.1rem;
-	font-weight: 300;
+	font-weight: 500;
 	color: #d6d6d6;
 	
 }
@@ -376,22 +398,25 @@ p {
 	  font-family: 'Roboto', sans-serif;
 	 font-size: calc( 24px + (26 - 24) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
-    font-weight: 300;
-    color: #ffffff;
+    font-weight: 500;
+    color: #d6d6d6;
+   
+    
+    
    
  
 }
-.subcategory:link {text-decoration: none; color: #ffffff;}
-.subcategory:visited {text-decoration: none; color: #ffffff;}
-.subcategory:hover {text-decoration: none; color: #69ff47; transition: 0s;}
-.subcategory:active {text-decoration: none; color: #ffffff;}
+.subcategory:link {text-decoration: none; color: #d6d6d6;}
+.subcategory:visited {text-decoration: none; color: #d6d6d6;}
+.subcategory:hover {text-decoration: none; color: #ffffff; transition: 0s;}
+.subcategory:active {text-decoration: none; color: #d6d6d6;}
 
 
 .book-magazine	{
 	font-family: 'Roboto', sans-serif;
 	font-size: calc( 80px + (82 - 80) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
-    font-weight: 300;
+    font-weight: 700;
     color: #000000;
     
 
@@ -407,7 +432,7 @@ p {
 	font-family: 'Roboto', sans-serif;
 	font-size: calc( 80px + (82 - 80) * (100vw - 450px) / (1000 - 450) );
     letter-spacing: 0.1rem;
-    font-weight: 300;
+    font-weight: 700;
     color: #000000;
 }
 
